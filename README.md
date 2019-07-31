@@ -50,7 +50,7 @@ This playground doesn't look for a flat plane to put virtual objects on, instead
 
 All virtual objects are positioned and oriented according to this world origin (with righteye.debugOptions on, the world origin is an XYZ or RGB axis)<br>
 
-Example screenshots of the A7-L spacesuit 3D mesh with one AO ambient occlusion or one basecolor texture.<br>
+Example screenshots of the A7-L spacesuit 3D mesh with one ambient occlusion or one basecolor texture. A reason for this is Swift Playgrounds is unable to load multiple textures for Physically based rendering (with "Enable Results" off). Could use Blender to reduce mesh size and GIMP to reduce texture size. However, this project only require an iPad.
 
 <img src="1.jpg" width="640">
 
