@@ -1,5 +1,5 @@
 # ARKit-Stereoscope-Armstrong-A7L (under construction)
-Explore Neil Armstrong's A7-L spacesuit from Smithsonian Institution with a 6DOF tracking stereoscope
+Explore Neil Armstrong's A7-L spacesuit from the Smithsonian Institution with a 6DOF tracking stereoscope
 
 <img src="0.jpg" width="640">
 
@@ -23,9 +23,9 @@ ARKit and SceneKit (set up scene, read 3D files, attact a virtual camera for lef
 
 With Swift Playgrounds 3.0 update, the file structure has changed from 2.2.
 
-To keep things simple, a source file learn.swift is available for pasting into Playgrounds. Resources for the program will either be made available or links provided. It is assumed that users know how to download files into iOS Files App, unzip them, and moved into Playgrounds (eg. bottom of https://github.com/Physicslibrary/ARKit-Stereoscope).
+To keep things simple, a source file learn.swift is available for pasting into Playgrounds. Resources for the program will either be made available or links provided. It is assumed that users know how to download files into iOS Files App, unzip, and transfer into Playgrounds (eg. bottom of https://github.com/Physicslibrary/ARKit-Stereoscope).
 
-Download armstrong_suit-ar_model.zip from Smithsonian Institution 3d.si.edu/armstrong
+Download armstrong_suit-ar_model.zip from the Smithsonian Institution 3d.si.edu/armstrong
 
 This is the "AR Ready Model Suit - .OBJ and .JPG (23.6 MB)" in the "Other Models" section of the webpage.
 
@@ -48,11 +48,20 @@ If frame rate <60Hz, hold iPad still, swipe up from bottom edge of screen for HO
 
 This playground doesn't look for a flat plane to put virtual objects on, instead the initial position of the iPad is the world origin when "Run My Code" is pressed. Hold iPad near floor before "Run My Code" with "Enable Results" off.
 
-All virtual objects are positioned and oriented according to this world origin (with righteye.debugOptions on, the world origin is an XYZ or RGB axis)
+All virtual objects are positioned and oriented according to this world origin (with righteye.debugOptions on, the world origin is an XYZ or RGB axis)<br>
 
+Here are example screenshots of the A7-L spacesuit 3D mesh with one AO ambient occlusion or one basecolor texture.<br>
 
 <img src="1.jpg" width="640">
 
 <img src="2.jpg" width="640">
 
 <img src="3.jpg" width="640">
+
+# References
+
+armstrong_suit-ar_model.zip<br>
+The Smithsonian Institution<br>
+https://3d.si.edu/armstrong<br><br>
+
+Copyright (c) 2019 Hartwell Fong
