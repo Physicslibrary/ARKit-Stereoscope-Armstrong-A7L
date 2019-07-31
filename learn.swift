@@ -28,7 +28,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 
 July 31, 2019.
 
-Explore Neil Armstrong's A7-L spacesuit from Smithsonian Institution with a stereoscope with 6DOF tracking
+Explore Neil Armstrong's A7-L spacesuit from Smithsonian Institution with a 6DOF tracking stereoscope
 
 Hardware:
 
