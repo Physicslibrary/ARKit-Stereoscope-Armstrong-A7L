@@ -1,4 +1,4 @@
-# ARKit-Stereoscope-Armstrong-A7L (under construction)
+# ARKit-Stereoscope-Armstrong-A7L
 Explore Neil Armstrong's A7-L spacesuit from the Smithsonian Institution with a 6DOF tracking stereoscope.
 
 <img src="0.jpg" width="640">
